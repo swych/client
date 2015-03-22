@@ -20,7 +20,6 @@
     "request": "~2.53.0",
     "websocket": "~1.0.18",
     "restify": "~3.0.1",
-    "mongoose": "~3.8.25",
     "minimist": "~1.1.1",
     "ws": "~0.7.1",
     "uuid": "~2.0.1"
